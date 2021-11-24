@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3>Software Engineer from Uzbekistan</h3>
 <p>🎓 I am Currently a 3rd year Student at <a href="https://tuit.uz/" target="_blank">Tashkent University of Information Technologies</a></p>
 <p>
-    <img alt="Follow Temurbek Xaydarov src="https://img.shields.io/static/v1?label=Follow&message=Temurbek-Xaydarov&style=for-the-badge&color=4A90E2&labelColor=222222" />
+    <img alt="Follow Temurbek Xaydarov" src="https://img.shields.io/static/v1?label=Follow&message=Temurbek-Xaydarov&style=for-the-badge&color=4A90E2&labelColor=222222" />
 </p>
   
 - 💻 Core Stack: C++, JavaScript 🖤
@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <h1> 📫 Connect with me: </h1>
 
 <p>
-<a href="https://t.me/smm2226contact" target="blank"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png"/></a>
-<a href="mailto:smm2226fhp@gmail.com" target="blank"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
+<a href="https://t.me/Temurbek_Xaydarov" target="blank"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png"/></a>
+<a href="mailto:creative.teem4224@gmail.com" target="blank"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
 </p>
 <hr>
 
